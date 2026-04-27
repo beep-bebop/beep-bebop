@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=beep-bebop&show_icons=true&locale=en" alt="beep-bebop" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beep-bebop&" alt="beep-bebop" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beep-bebop&show_icons=true&locale=en&layout=compact" alt="beep-bebop" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beep-bebop" alt="beep-bebop" /></a></p>
