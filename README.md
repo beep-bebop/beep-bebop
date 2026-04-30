@@ -1,6 +1,4 @@
-<!--
 ![263455165-1e63df7a-19d2-4efd-a5cd-c32346aac550](https://github.com/beep-bebop/beep-bebop/assets/41529995/fcbee5fe-2dc9-4e69-a05e-bce8cf781562)
--->
 
 <!--
 **beep-bebop/beep-bebop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,15 +18,14 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Faye</h1>
 <!-- <p>A passionate backend/full-stack developer from CSU.</p> -->
 
-<!-- <h2>🏆 Github Profile Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=andeya&column=6"/>
- 
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=beep-bebop&column=6"/>
 ---
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=andeya&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=beep-bebop&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeya&layout=compact" />
 </div>
--->
+
 <br/>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=beep-bebop&show_icons=true&locale=en" alt="beep-bebop" /></p> -->
